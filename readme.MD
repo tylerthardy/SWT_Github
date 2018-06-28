@@ -13,10 +13,10 @@ Some of you familiar with Google Docs may have seen this in their Revision Histo
 GitHub is a version control *service*.  
 
 # Why use Git?
-#### Recover
-The number 1 reason to use Git is because it saves a history of your files.
-#### Compare
-Git lets you compare previous versions with your current. You can go back to see where bugs or problems occurred, and restore old code/writing, while keeping the newest revisions.
+#### Version Control
+The #1 reason to use Git is because it saves a history of changes in your files.
+#### Compare + Restore
+Git lets you compare previous versions with your current. You can go back to see where bugs or changes occurred, and restore old code or writing, while keeping the newest revisions.
 #### Share
 Git allows for collaboration between users. Other users can "clone" your repository, make changes, and then suggest those changes to you. Or they can be included on the project and collaborate, without risk of writing over each other.
 #### Not Limited to Code
