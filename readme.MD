@@ -1,5 +1,4 @@
 # Learning GitHub @ GCRL Summer Workshop Training Series 2018
-----------
 ## Requirements Before Workshop
 #### Skills:  
 Understanding of how to navigate to files on your computer.  
@@ -58,32 +57,8 @@ In this section we will learn about the basics of Git and GitHub. We will learn 
 
 4. You will now see a "Bash Terminal". This is the terminal included with Git, but you can use any. If you find the font size too small, click here for instructions on adjusting size.
 
-	All git commands start with `git` and are followed by the command. Here is a list of commonly used commands:
-| Command | Description |
-| ------- | ----------- |
-| `git init` | Initialize a local Git repository |
-| `git clone https://github.com/[username]/[repository-name].git` | Create a local copy of a remote repository |
-| `git status` | Check status |
-| `git diff` | View difference between current staged changes and remote repository |
-| ------- | ----------- |
-| `git add [file-name.ext]` | Add a file to the staging area |
-| `git add -A` | Add all new and changed files to the staging area |
-| `git add .` | Add all new and changed files to the staging area |
-| `git commit -m "[commit message]"` | Commit changes |
-| `git rm -r [file-name.ext]` | Remove a file (or folder) |
-| ------- | ----------- |
-| `git push` | Push current branch to remote repository |
-| `git push origin [branch name]` | Push a branch to your remote repository |
-| `git pull` | Update local repository to the newest commit |
-| `git pull origin [branch name]` | Pull changes from remote repository |
-| `git remote add origin https://github.com/[username]/[repository-name].git` | Add a remote repository |
-| ------- | ----------- |
-| `git branch` | List branches |
-| `git branch [branch name]` | Create a new branch |
-| `git branch -d [branch name]` | Delete a branch |
-| `git checkout -b [branch name]` | Create a new branch and switch to it |
-| `git checkout [branch name]` | Switch to a branch |
-| `git merge [branch name]` | Merge a branch into the active branch |
+	All git commands start with `git` and are followed by the command. Here is a list of commonly used commands:  
+	--Table--
 
 	**Type `git status` to see if the current directory is a git repository (it shouldn't be):**
 
