@@ -66,7 +66,7 @@ In this section we will learn about the basics of Git and GitHub. We will learn 
 
 5. It's time to clone! Your project is located at the URL: `https://github.com/[username]/[repository-name]`, and the Git project information can be found at `https://github.com/[username]/[repository-name].git`.
 
-	Type `git clone https://github.com/[username]/[repository-name].git` to clone your GitHub repository:
+	**Type `git clone https://github.com/[username]/[repository-name].git` to clone your GitHub repository:**
 
 	![](Images/1.5-clone.png)
 
@@ -75,6 +75,7 @@ In this section we will learn about the basics of Git and GitHub. We will learn 
 	![](Images/1.5-clone2.png)
 
 6. Time to verify that the folder is a git repository with our `git status` command from before.
+
 	**Go into the folder by typing `cd [repository-name]` and type `git status`:**
 
 	![](Images/1.6-gitstatus.png)
