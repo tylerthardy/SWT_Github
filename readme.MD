@@ -36,7 +36,7 @@ Binary-files (Word documents, model results, sound, images) can be added to Git,
 ## Extras
 [Changing Font Size in MINGW64 Terminal](fontsize.MD)  
 
-[Interactive Learning Demo with More Commands](https://try.github.io)  
+[Interactive GitHub Demos](https://lab.github.com)  
 [Interactive Branching Guide](http://learngitbranching.js.org)  
 [Git Command List](https://git-scm.com/docs)  
 
