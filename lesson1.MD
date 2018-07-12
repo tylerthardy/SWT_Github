@@ -1,8 +1,9 @@
 
 ## Getting Started on GitHub (Create a Repository, Clone, Commit, Push)
-You should have already created an account on GitHub. If not, scroll to the top of this page for instructions under *Requirements Before Workshop*.
 
 In this section we will learn about the basics of Git and GitHub. We will learn how to create a repository on GitHub, how to clone the repository to a computer, how to modify and update a repository, and how to explore GitHub's version control system.
+
+You should have already created an account on GitHub ([see main readme](readme.MD)).
 
 1. The first step is to create a **repository**. A repository is like a "project folder", the directory where all the files related to the project are stored. The online repository - a la GitHub - is the online copy of this folder.
 
