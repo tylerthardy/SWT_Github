@@ -1,4 +1,8 @@
 # Learning GitHub @ GCRL Summer Workshop Training Series 2018
+---
+## What We'll Cover
+We will cover the basics of GitHub which are most useful to researchers, simple methods for collaboration, and how to integrate Git with RStudio. Advanced and useful methods for collaboration can be found at links found at the bottom of this page.
+
 ## Requirements Before Workshop
 #### Skills:  
 Understanding of how to navigate to files on your computer.  
@@ -10,9 +14,9 @@ Register an account on [GitHub](http://github.com).
 Verify your e-mail for GitHub (via your e-mail service)  
 
 ## Lessons
-[Getting Started on GitHub (Create a Repository, Clone, Commit, Push)](lesson1.MD)  
-[Collaboration (Pulling and Restoring)](lesson2.MD)  
-[RStudio Integration](lesson3.MD)  
+[Lesson 1 - Getting Started on GitHub (Create a Repository, Clone, Commit, Push)](lesson1.MD)  
+[Lesson 2 - Collaboration (Cloning, Pulling, and Restoring)](lesson2.MD)  
+[Lesson 3 - RStudio Integration](lesson3.MD)  
 
 ## What is Git?
 Git is version control *software*.  
