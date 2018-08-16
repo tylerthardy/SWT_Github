@@ -15,8 +15,8 @@ Verify your e-mail for GitHub (via your e-mail service)
 
 ## Lessons
 [Lesson 1 - Getting Started on GitHub (Create a Repository, Clone, Commit, Push)](lesson1.MD)  
-[Lesson 2 - Collaboration (Cloning, Pulling, and Restoring)](lesson2.MD)  
-[Lesson 3 - RStudio Integration](lesson3.MD)  
+[Lesson 2 - RStudio Integration](lesson2.MD)  
+[Lesson 3 - Collaboration (Cloning, Pulling, and Restoring)](lesson3.MD)
 
 ## What is Git?
 Git is version control *software*.  

@@ -1,4 +1,3 @@
-
 ## Getting Started on GitHub (Create a Repository, Clone, Commit, Push)
 
 In this section we will learn how to create a repository on GitHub, how to clone the repository to a computer, how to modify and update a repository, and how to explore GitHub's version control system.
