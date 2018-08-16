@@ -13,6 +13,9 @@ Install [Git](https://git-scm.com/downloads).
 Register an account on [GitHub](http://github.com).  
 Verify your e-mail for GitHub (via your e-mail service)  
 
+#### Chatroom for Workshop:
+Go [here](https://beta.etherpad.org/p/SWT_GitHub) to be in the live chatroom for the workshop. You can remain anonymous and ask questions/comments as the workshop goes on.
+
 ## Lessons
 [Lesson 1 - Getting Started on GitHub (Create a Repository, Clone, Commit, Push)](lesson1.MD)  
 [Lesson 2 - RStudio Integration](lesson2.MD)  
