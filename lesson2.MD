@@ -41,3 +41,4 @@ Here we will import an existing GitHub repository as an RStudio project.
 	Your project should now be cloned, and opened in RStudio as any other project would.
 
 ### Staging, Committing, and Pushing in RStudio
+
